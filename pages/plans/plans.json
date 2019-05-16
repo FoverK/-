@@ -1,0 +1,6 @@
+{
+        "component": true,
+        "navigationBarTitleText": "计划",
+        "enablePullDownRefresh": true,
+        "backgroundTextStyle": "dark"       
+}
